@@ -1,7 +1,0 @@
-.git
-.venv
-.files
-.ruff_cache
-.vscode
-.env
-__pycache__`
